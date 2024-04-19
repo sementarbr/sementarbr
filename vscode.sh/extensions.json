@@ -1,5 +1,6 @@
 {
-  extensionPack: [
+  "nome": "teste",
+  "extensionPack": [
     "andys8.jest-snippets",
     "apollographql.vscode-apollo",
     "clinyong.vscode-css-modules",
