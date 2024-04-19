@@ -1,5 +1,5 @@
 {
-"extensionPack": [
+  "extensionPack": [
     "andys8.jest-snippets",
     "apollographql.vscode-apollo",
     "clinyong.vscode-css-modules",
@@ -37,5 +37,5 @@
     "usernamehw.errorlens",
     "wgenial.html-snippets",
     "wix.vscode-import-cost"
-  ],
+  ]
 }
